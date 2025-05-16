@@ -47,6 +47,7 @@ Built with **Python, Streamlit, Pandas, and Plotly**, it enables users to explor
 
 ---
 
+<a name="features"></a>
 ## 🚀 Features
 
 - **Medal Tally:** Filter by year and country; analyze performance across Olympic Games.
@@ -69,6 +70,7 @@ Built with **Python, Streamlit, Pandas, and Plotly**, it enables users to explor
 
 ---
 
+<a name="technologies-used"></a>
 ## 🛠️ Technologies Used
 
 - **Python 3.8+**
@@ -78,6 +80,7 @@ Built with **Python, Streamlit, Pandas, and Plotly**, it enables users to explor
 
 ---
 
+<a name="dataset"></a>
 ## 📊 Dataset
 
 - **Source:** ["120 Years of Olympic History: Athletes and Results"](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
@@ -87,6 +90,7 @@ Built with **Python, Streamlit, Pandas, and Plotly**, it enables users to explor
 
 ---
 
+<a name="data-exploration-and-feature-engineering"></a>
 ## 🧹 Data Exploration & Feature Engineering
 
 **Data Cleaning:**
@@ -108,6 +112,7 @@ Built with **Python, Streamlit, Pandas, and Plotly**, it enables users to explor
 
 ---
 
+<a name="technical-architecture-and-workflow"></a>
 ## 🏗️ Technical Architecture & Workflow
 
 The project is organized for modularity and clarity:
@@ -134,6 +139,7 @@ The project is organized for modularity and clarity:
 
 ---
 
+<a name="installation-and-setup"></a>
 ## ⚙️ Installation and Setup
 
 1. **Clone the Repository**
@@ -155,6 +161,7 @@ The project is organized for modularity and clarity:
 
 ---
 
+<a name="usage"></a>
 ## 💡 Usage
 
 - Use the sidebar to navigate between dashboard sections.
@@ -164,6 +171,7 @@ The project is organized for modularity and clarity:
 
 ---
 
+<a name="project-structure"></a>
 ## 🗂️ Project Structure
 
 <pre>
@@ -188,6 +196,7 @@ Olympic-Analysis-Project/
 
 ---
 
+<a name="testing-and-validation"></a>
 ## 🧪 Testing & Validation
 
 - **Code tested** with multiple data slices (years, countries, sports) to ensure accuracy of aggregates and filters.
@@ -197,6 +206,7 @@ Olympic-Analysis-Project/
 
 ---
 
+<a name="limitations-and-challenges"></a>
 ## 🚧 Limitations & Challenges
 
 - **Data Limitations:**  
@@ -211,6 +221,7 @@ Olympic-Analysis-Project/
 
 ---
 
+<a name="future-work"></a>
 ## 🛣️ Future Work
 
 - Add more advanced analytics (e.g., medal prediction, clustering athletes by performance).
@@ -221,6 +232,7 @@ Olympic-Analysis-Project/
 
 ---
 
+<a name="contributing"></a>
 ## 🤝 Contributing
 
 Contributions are welcome!  
@@ -233,12 +245,14 @@ Please ensure your changes align with project goals and code quality standards.
 
 ---
 
+<a name="license"></a>
 ## 📜 License
 
 This project is licensed under the **MIT License**.
 
 ---
 
+<a name="acknowledgments"></a>
 ## 🙏 Acknowledgments
 
 - **Dataset:** ["120 Years of Olympic History: Athletes and Results"](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
@@ -247,6 +261,7 @@ This project is licensed under the **MIT License**.
 
 ---
 
+<a name="contact"></a>
 ## 📬 Contact
 
 **Abhinav Mishra**  
