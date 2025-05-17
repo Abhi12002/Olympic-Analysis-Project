@@ -147,13 +147,8 @@ The project is organized for modularity and clarity:
     git clone https://github.com/Abhi12002/Olympic-Analysis-Project.git
     cd Olympic-Analysis-Project
     ```
-
-2. **Install Required Dependencies**
-    ```
-    pip install -r requirements.txt
-    ```
-
-3. **Run the Application**
+    
+2. **Run the Application**
     ```
     streamlit run app.py
     ```
@@ -181,7 +176,6 @@ Olympic-Analysis-Project/
 ├── helper.py           # Utility functions for analysis/visualization
 ├── athlete_events.csv  # Main dataset
 ├── noc_regions.csv     # NOC code to country/region mapping
-├── requirements.txt    # Python dependencies
 ├── Olympics-photo.jpg
 └── README.md
 </pre>
